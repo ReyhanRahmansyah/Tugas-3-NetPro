@@ -6,15 +6,15 @@
 
 # Nomer 1 :
 ![Tugas 3 Nomer 1](https://user-images.githubusercontent.com/46934972/66267117-8c96c280-e857-11e9-8090-71c060d6146d.png)
-![Diagram Tugas 3 Nomer 1](https://user-images.githubusercontent.com/46934972/66267138-cec00400-e857-11e9-9f36-9dceda75fd46.png)
+![Diagram 1](https://user-images.githubusercontent.com/46934972/66267432-d3d28280-e85a-11e9-992f-a7a9a7fe41dd.png)
 
 # Nomer 2 :
 ![Tugas 3 Nomer 2](https://user-images.githubusercontent.com/46934972/66267144-e13a3d80-e857-11e9-9e13-7b55ff05807d.png)
-![Diagram Tugas 3 Nomer 2](https://user-images.githubusercontent.com/46934972/66267147-ea2b0f00-e857-11e9-9a9c-3f2c9ecbe792.png)
+![Diagram 2](https://user-images.githubusercontent.com/46934972/66267433-d634dc80-e85a-11e9-8bd5-b2afc444109f.png)
 
 # Nomer 3 :
 ![Tugas 3 Nomer 3](https://user-images.githubusercontent.com/46934972/66267158-fb741b80-e857-11e9-81d7-daee5a014aca.png)
-![Diagram Tugas 3 Nomer 3](https://user-images.githubusercontent.com/46934972/66267160-04fd8380-e858-11e9-880e-49ee07f29854.png)
+![Diagram 3](https://user-images.githubusercontent.com/46934972/66267434-d7660980-e85a-11e9-86b5-154c70fab379.png)
 
 # Nomer 4 :
 ![Tugas 3 Nomer 4](https://user-images.githubusercontent.com/46934972/66267169-15adf980-e858-11e9-8e63-3ef671f65dfb.png)
