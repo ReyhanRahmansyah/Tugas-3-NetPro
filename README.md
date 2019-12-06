@@ -1,8 +1,8 @@
 # Tugas 3 NetPro
 # Anggota Kelompok : 
-# Meilyand Evriyan Timor (1301161769)
-# Reyhan Rahmansyah (1301160805)
-# Reno Butar Butar (1301164724)
+Meilyand Evriyan Timor (1301161769)  
+Reyhan Rahmansyah (1301160805)  
+Reno Butar Butar (1301164724)  
 
 # Nomer 1 :
 ![Tugas 3 Nomer 1](https://user-images.githubusercontent.com/46934972/66267117-8c96c280-e857-11e9-8090-71c060d6146d.png)
